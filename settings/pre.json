@@ -1,0 +1,7 @@
+{
+  "PrivateKeyPath": "/Library/Golang/src/api-uptoo-jwt/settings/keys/private_key",
+  "PublicKeyPath": "/Library/Golang/src/api-uptoo-jwt/settings/keys/public_key.pub",
+  "JWTExpirationDelta": 72,
+  "AESKEY":"75BE577565A8EA693066FC008654ECDF",
+  "AESIV":"F69E5016D40F6B59C7D068F6BC3CD979"
+}

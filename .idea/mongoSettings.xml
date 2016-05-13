@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MongoConfiguration">
+    <option name="serverConfigurations">
+      <list>
+        <ServerConfiguration>
+          <option name="label" value="MongoLocal" />
+          <option name="serverUrls">
+            <list>
+              <option value="localhost:27017" />
+            </list>
+          </option>
+        </ServerConfiguration>
+        <ServerConfiguration>
+          <option name="authenticationDatabase" value="uptoo" />
+          <option name="label" value="Dev-Mongo" />
+          <option name="password" value="db-pass-X23ZQ" />
+          <option name="serverUrls">
+            <list>
+              <option value="130.211.83.127:27017" />
+            </list>
+          </option>
+          <option name="userDatabase" value="uptoo" />
+          <option name="username" value="uptoo-apps" />
+        </ServerConfiguration>
+        <ServerConfiguration>
+          <option name="label" value="Test" />
+          <option name="serverUrls">
+            <list>
+              <option value="130.211.91.214:27017" />
+            </list>
+          </option>
+        </ServerConfiguration>
+      </list>
+    </option>
+  </component>
+</project>
